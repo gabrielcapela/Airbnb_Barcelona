@@ -1,9 +1,8 @@
 # Airbnb_Barcelona
-<center><img alt=\"Analisando Airbnb\" width=\"65%\" src=\"https://i.natgeofe.com/n/e4996b18-0a25-45e7-8a9d-caca1e8fcf89/citybreak_barcelona_AWL_ES02360_HR_4x3.jpg\"></center>\n
 
-
-
-        "<center><img alt=\"Analisando Airbnb\" width=\"65%\" src=\"https://i.natgeofe.com/n/e4996b18-0a25-45e7-8a9d-caca1e8fcf89/citybreak_barcelona_AWL_ES02360_HR_4x3.jpg\"></center>\n",
+<p align="center">
+<center><img alt="Analisando Airbnb" width="35%" src="https://raw.githubusercontent.com/gabrielcapela/Airbnb_Barcelona/main/airbnb.jpg"></center>
+</p>
 
 
         
