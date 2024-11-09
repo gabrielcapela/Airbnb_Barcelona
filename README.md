@@ -7,7 +7,7 @@
 
 
         
-Com o objetivo de executar uma análise exploratória de dados sobre os imóveis disponíveis pelo Airbnb na cidade de Barcelona, esse projeto seguiu os seguintes passos:
+Com o objetivo de executar uma análise exploratória de dados sobre os imóveis disponíveis pelo Airbnb na cidade de Barcelona, esse projeto seguiu os seguintes tópicos:
 
 1) Introdução e Obtenção dos dados;
 2) Verificação dos tipos das variáveis e do tamanho do nosso dataset;
