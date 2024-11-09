@@ -1,8 +1,9 @@
 # Airbnb_Barcelona
 
 <p align="center">
-<center><img alt="Analisando Airbnb" width="35%" src="https://raw.githubusercontent.com/gabrielcapela/Airbnb_Barcelona/main/airbnb.jpg"></center>
+  <img alt="Analisando Airbnb" width="35%" src="https://raw.githubusercontent.com/gabrielcapela/Airbnb_Barcelona/main/airbnb.jpg">
 </p>
+
 
 
         
